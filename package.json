@@ -1,0 +1,20 @@
+{
+  "name": "netmon",
+  "version": "1.0.0",
+  "description": "Network Stats and Connections",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js --watch",
+    "demo": "node server.js --demo"
+  },
+  "keywords": [],
+  "author": "Bharath",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "systeminformation": "^5.33.15",
+    "ws": "^8.22.0"
+  }
+}
