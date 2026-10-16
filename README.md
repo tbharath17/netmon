@@ -2,9 +2,7 @@
 
 A live network monitor for Linux. It shows real-time inbound/outbound bandwidth and a table of connected IPs with the **domain name** and the **process** behind each connection. It runs locally, unprivileged, and stores nothing on disk.
 
-<!-- Replace with a screenshot. Redact IPs, hostnames and bookmarks before committing. -->
-
-![netmon screenshot](docs/screenshot.png)
+![alt text](Netmon.png)
 
 ## Features
 
